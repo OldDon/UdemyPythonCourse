@@ -1,0 +1,5 @@
+fruitList = open("/Users/davey/source/repos/UdemyPythonCourse/UdemyPythonCourse/fruits.txt")
+fruitListContent = fruitList.read()
+fruitList.close()
+fruitListContent.splitlines()
+print(fruitListContent)

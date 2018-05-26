@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>45cd736b-b4b2-4784-acd0-cfed9c1a4e50</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>UdemyPythonCourse.py</StartupFile>
+    <StartupFile>4.77 Fixing Difficult Errors.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,7 +21,101 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="UdemyPythonCourse.py" />
+    <Compile Include="2.19 More Operations With Dictionary.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="2.25 Custom Functions.Return vs Print.py" />
+    <Compile Include="2.27 Exercise. Calculate Length Second Attempt.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="2.27 Exercise. Calculate Length.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="2.27 Exercise.Calculate Length.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="2.29 Custom Functions with Multiple Parameters.py" />
+    <Compile Include="2.30 Custom Functions with Default Parameters.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="2.31 Exercise. Simple Function.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="2.34 Functions and Conditionals 1.py" />
+    <Compile Include="2.37 Functions and Conditionals 3.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="2.39 Opening External Text Files.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="2.43 Solution.Reading Files.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="2.50 Solution.Calculating File Content Length.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="2.53 Writing Text to a File.py" />
+    <Compile Include="2.54 Appending Text to a file.py" />
+    <Compile Include="2.55 Reading and Appending Text to a File.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="2.56 Exercise.Writing Multiple Lines in a Text File.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="3.68.2 Iterate multiple sequences NO string formatting.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="3.72 Exercise. Merging Text Files.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="basics.py" />
+    <Compile Include="Convert Fahrenheit to Celcius.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Multi Parameter Function.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Packages.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="3.64 Modules.Libraries and Packages.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="powerFunction.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="3.69 The .with. context manager.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="runtime errors.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="temperatureCoversion.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="testForText.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="try_input.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Udemy - Functions.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Udemy - Funtion to convert Celcius to Farenheit.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="VS Debugger Tutorial.py">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="2.42 Exercise.Reading Files.py">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="Exception handling in Python.py">
+      <SubType>Code</SubType>
+    </Content>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
